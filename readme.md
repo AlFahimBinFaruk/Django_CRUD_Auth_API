@@ -15,3 +15,8 @@
 * Authorization
 * JWT 
 * Refresh Token
+* Custom User Model
+* CORS enabled
+* Pagination API
+
+
