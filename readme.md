@@ -1,4 +1,4 @@
-### Django CRUD, Auth API
+## Django CRUD, Auth API
 
 - <p>This is a simple API where one can login/register and create personal blogs which only he can Read,Write,Delete,Update..</p>
 
